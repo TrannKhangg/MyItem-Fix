@@ -1,0 +1,12 @@
+name: MyItem
+main: myitem\Main
+author: pmmdst
+editor: KhanggTrann
+api: 3.0.0
+version: 0.0.1
+
+commands:
+ mi:
+  description: My Item
+  permission: myitem.command
+  default: op
